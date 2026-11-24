@@ -1,0 +1,16 @@
+.env
+2.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+review_cache.json
+product_settings.json
+morning_brief.json
+product_specs.json
+followup_brief.json
+*.tmp
+SC선행상기_박민기.xlsx
+llmtest-streamlit-cloud.zip
